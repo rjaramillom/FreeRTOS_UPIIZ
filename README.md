@@ -11,8 +11,6 @@ Genere una carpeta con el nombre Actividad 00. Ahí deberá integrar los siguien
 - Habilitación de bluetooth al presionar un botón y deshabilitar el mismo a través de comando por bluetooth y/o al presionar nuevamente el botón. 
 - Interacción con bot de Telegram. 
 
-Los códigos anteriores deberán integrarse de manera independiente y por separado se deberá agregar el código solicitado en la primer evaluación. 
-
 ## Actividad 01
 - Probar el código dentro de la carpeta Actividad 01.
 - Después de la sección del loop principal, deberá agregregar un comentario donde indique lo que realiza el código.  

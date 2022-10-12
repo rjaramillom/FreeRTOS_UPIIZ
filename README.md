@@ -10,6 +10,7 @@ Genere una carpeta con el nombre Actividad 00. Ahí deberá integrar los siguien
 - Conexión a Wi-Fi e interacción con base de datos en Firebase. (Publicar fecha y nivel entregado por sensor ultrasonico)
 - Habilitación de bluetooth al presionar un botón y deshabilitar el mismo a través de comando por bluetooth y/o al presionar nuevamente el botón. 
 - Interacción con bot de Telegram. 
+
 Los códigos anteriores deberán integrarse de manera independiente y por separado se deberá agregar el código solicitado en la primer evaluación. 
 
 ## Actividad 01

@@ -20,3 +20,13 @@ Genere un código que contemple lo siguiente:
 - El toggle de una tarea deberá ser del doble de la frecuencia de la otra tarea. 
 - Modifique la prioridad de las tareas, primero establezca la prioridad igual, después modifique la prioridad e invierta esta prioridad con la finalidad de observar el comportamiento a través de un osciloscopio. 
 - Después del loop principal deberá agregar una sección de comentarios donde realizará un análisis del comportamiento. Si desea agregar imagenes deberá integrarlas en el repositorio. 
+
+## Actividad 02
+
+- Probar el código dentro de la carpeta Actividad 02.
+- Después de la sección del loop principal, deberá agregregar un comentario donde indique lo que realiza el código.  
+
+Genere un código que contemple lo siguiente: 
+- Usando FreeRTOS, cree dos tareas separadas. 
+- La primer tarea recibe un número entero a través de UART (del Serial Monitor) y lo asigna a una variable. 
+- La otra tarea hace parpadear el LED integrado a una velocidad especificada por ese número entero. 

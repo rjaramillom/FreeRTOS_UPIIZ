@@ -30,3 +30,11 @@ Genere un código que contemple lo siguiente:
 - Usando FreeRTOS, cree dos tareas separadas. 
 - La primer tarea recibe un número entero a través de UART (del Serial Monitor) y lo asigna a una variable. 
 - La otra tarea hace parpadear el LED integrado a una velocidad especificada por ese número entero. 
+
+## Actividad 03
+
+- Probar el código dentro de la carpeta Actividad 03 que corresponde a la solución del ejercicio planteado en clase.
+- Después de la sección del loop principal, deberá agregregar un comentario donde indique lo que realiza el código.  
+
+Genere un código que contemple lo siguiente: 
+- Integre el código de su autoría que solucione el mismo problema. 

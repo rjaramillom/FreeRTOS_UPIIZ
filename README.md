@@ -38,3 +38,7 @@ Genere un código que contemple lo siguiente:
 
 Genere un código que contemple lo siguiente: 
 - Integre el código de su autoría que solucione el mismo problema. 
+
+## Actividad 04
+- Analizar el código dentro de la carpeta y determinar bajo que condicones se llena el queue. Pruebe modificando tienpo, longitud del mensaje, modificando longitud de la variable global, etc. 
+- Se recomienda tener respaldo del código original para tener un punto de comparación.

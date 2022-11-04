@@ -42,3 +42,6 @@ Genere un código que contemple lo siguiente:
 ## Actividad 04
 - Analizar el código dentro de la carpeta y determinar bajo que condicones se llena el queue. Pruebe modificando tienpo, longitud del mensaje, modificando longitud de la variable global, etc. 
 - Se recomienda tener respaldo del código original para tener un punto de comparación.
+
+## Actividad 05 
+- Probar código dentro de la carpeta Actividad 05 y en la parte inferior del código agregar una sección de comentarios donde deberá incluir el análisis del código y el resultado obtenido en la consola.

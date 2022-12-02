@@ -45,3 +45,8 @@ Genere un código que contemple lo siguiente:
 
 ## Actividad 05 
 - Probar código dentro de la carpeta Actividad 05 y en la parte inferior del código agregar una sección de comentarios donde deberá incluir el análisis del código y el resultado obtenido en la consola.
+
+## Actividad 07
+- Probar código dentro de la carpeta Actividad 07 y en la parte inferior del código agregar una sección de comentarios donde deberá incluir el análisis del código y el resultado obtenido en la consola.
+- Agregar un codigo nuevo donde el timer se activará al detectar un caracter de entrada por el puerto serial, sino detecta entrada el timer finaliza y no se vuelve a cargar. 
+
